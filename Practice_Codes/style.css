@@ -1,0 +1,45 @@
+/* * {
+    color : red;
+} */
+
+h1 {
+    color : green;
+}
+
+p {
+    color : blue;
+}
+
+input {
+    background-color : yellow;
+    color : red;
+    font-weight: 1000;
+}
+
+button {
+    background-color : cyan;
+    color : purple;
+    font-weight: 1000;
+}
+
+body {
+    background-color : black;
+    background-color: #ff0000;
+    background-color: #00ff00;
+    background-color: #0000ff;
+    background-color: #ffffff;
+}
+
+/* Unique Id selector */
+
+#unique {
+    color : orange;
+}
+
+#unique1 {
+    color : brown;
+}
+
+.special {
+    color : magenta;
+}
