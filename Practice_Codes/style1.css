@@ -1,0 +1,48 @@
+p {
+    text-align: center;
+}
+/* on giving div as align then div tag act as a parent and p tag as child */
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+}
+
+/* for anchor tag*/
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: blue wavy underline;
+}
+
+/* This can be in range
+    like lighter = 100
+    darker = 900 and for 
+    bold = 400 */
+
+#h1 {
+    font-weight: normal;
+}
+
+#h2 {
+    font-weight: lighter;
+}
+
+#h3 {
+    font-weight: bold;
+}
+
+#h4 {
+    font-weight: bolder;
+}
+
+#p1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
