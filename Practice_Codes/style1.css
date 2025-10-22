@@ -44,5 +44,18 @@ h2 {
 
 #p1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+    text-transform: none;
 }
+
+#p2 {
+    font-size: 13px;
+    line-height: 10px;
+}
+/* line height decides the height of the each line */
+/*text-transform is used to set text to upper and lower and all on..*/
+
+
 
