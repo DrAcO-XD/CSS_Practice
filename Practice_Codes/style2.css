@@ -1,0 +1,19 @@
+div {
+    height : 100px;
+    background-color : lightblue;
+    width: 100px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+h1 {
+    border-width: 3px;
+    border-style: dashed;
+    border-color: red;
+    width: 190px;
+    height: 60px;
+    background-color: yellow;
+    border-radius: 10px;
+    text-align: center;
+}
