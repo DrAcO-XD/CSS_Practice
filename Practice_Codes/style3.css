@@ -1,0 +1,32 @@
+div {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline;/* on applying inline loses top and bottom margin*/
+    display: inline-block;/* on applying inline-block it retains top and bottom margin */
+}
+
+#box4 {
+    display: none; /* to hide an element */
+    /* on using this , there will be no space occupied by this*/
+    /*but using visibility: hidden; will hide the element but space will be occupied */
+    visibility: hidden;
+}
+
+p {
+    background-color: rgb(250, 207, 207); /* rgb value for red color */
+    color: rgba(255, 0, 0, 0.5); /* rgba value for red color with 50% opacity */ 
+}
+
+#box5 {
+    background-color: rgba(255, 0, 0, 0.2);
+}
+
+#box6 {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+#box7 {
+    background-color: rgba(255, 0, 0, 0.8);
+}
